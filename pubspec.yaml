@@ -17,8 +17,8 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
-  uses-material-design: true
+    uses-material-design: true
 
 environment:
   sdk: ">=1.19.0 <3.0.0"
-flutter: ">=0.4.1 <1.0.0"
+  ">= 0.4.1 <= 1.5.4"
